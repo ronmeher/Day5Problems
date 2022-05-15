@@ -1,0 +1,15 @@
+E:\Visual_Studio\Day-5\BasicPrograms\BasicPrograms\bin\Debug\BasicPrograms.exe.config
+E:\Visual_Studio\Day-5\BasicPrograms\BasicPrograms\bin\Debug\BasicPrograms.exe
+E:\Visual_Studio\Day-5\BasicPrograms\BasicPrograms\bin\Debug\BasicPrograms.pdb
+E:\Visual_Studio\Day-5\BasicPrograms\BasicPrograms\obj\Debug\BasicPrograms.csproj.AssemblyReference.cache
+E:\Visual_Studio\Day-5\BasicPrograms\BasicPrograms\obj\Debug\BasicPrograms.csproj.CoreCompileInputs.cache
+E:\Visual_Studio\Day-5\BasicPrograms\BasicPrograms\obj\Debug\BasicPrograms.exe
+E:\Visual_Studio\Day-5\BasicPrograms\BasicPrograms\obj\Debug\BasicPrograms.pdb
+C:\Users\ROHAN\source\repos\Day-5\BasicPrograms\BasicPrograms\bin\Debug\BasicPrograms.exe.config
+C:\Users\ROHAN\source\repos\Day-5\BasicPrograms\BasicPrograms\bin\Debug\BasicPrograms.exe
+C:\Users\ROHAN\source\repos\Day-5\BasicPrograms\BasicPrograms\bin\Debug\BasicPrograms.pdb
+C:\Users\ROHAN\source\repos\Day-5\BasicPrograms\BasicPrograms\obj\Debug\BasicPrograms.csproj.AssemblyReference.cache
+C:\Users\ROHAN\source\repos\Day-5\BasicPrograms\BasicPrograms\obj\Debug\BasicPrograms.csproj.SuggestedBindingRedirects.cache
+C:\Users\ROHAN\source\repos\Day-5\BasicPrograms\BasicPrograms\obj\Debug\BasicPrograms.csproj.CoreCompileInputs.cache
+C:\Users\ROHAN\source\repos\Day-5\BasicPrograms\BasicPrograms\obj\Debug\BasicPrograms.exe
+C:\Users\ROHAN\source\repos\Day-5\BasicPrograms\BasicPrograms\obj\Debug\BasicPrograms.pdb
